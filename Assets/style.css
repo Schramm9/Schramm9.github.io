@@ -1,0 +1,39 @@
+.caption {
+  background: #fff;
+  padding: 30px;
+  margin: 0 0 40px 0;
+  width: 100%;
+
+  float: right;
+  border: 1px solid #ddd;
+}
+
+.fixed-width {
+  width: 300px !important;
+  height: 300px !important;
+}
+
+.cardTextPos {
+  position: absolute;
+  bottom: 0;
+}
+
+.button {
+  background-color: black;
+  color: #e7e7e7; /* Green */
+  border-radius: 8px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+a.bott-anchor {
+  bottom: 0;
+}
+
+a.height-fixed {
+  max-height: 60px;
+}
